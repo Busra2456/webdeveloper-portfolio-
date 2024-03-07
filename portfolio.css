@@ -25,6 +25,7 @@ body{
 nav > ul{
     display: flex;
     align-items: center;
+    margin: 0 200px;
 }
 
 
@@ -55,5 +56,17 @@ nav {
 
 }
 
+/* header related style */
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner.pic{width: 500px;
+
+}
 
 
